@@ -1,0 +1,401 @@
+﻿Age,Gender,Brand,Item,Price_INR,Quantity,City,Date,Revenue,Revenue_Category
+33,Female,H&M,Sneakers,6025,5,Pune,01-01-2025,30125,High
+32,Other,Zara,Kurti,1824,2,Delhi,02-01-2025,3648,Low
+33,Female,Allen Solly,Kurti,5509,3,Hyderabad,03-01-2025,16527,High
+27,Male,H&M,T-Shirt,3323,2,Kolkata,04-01-2025,6646,Medium
+17,Other,Allen Solly,Kurti,1964,2,Pune,05-01-2025,3928,Low
+60,Female,Adidas,Formal Shirt,6563,1,Mumbai,06-01-2025,6563,Medium
+59,Female,Adidas,Saree,4770,4,Bangalore,07-01-2025,19080,High
+20,Female,Adidas,Sneakers,1180,5,Chennai,08-01-2025,5900,Medium
+23,Male,Peter England,Formal Shirt,4943,5,Mumbai,09-01-2025,24715,High
+45,Female,Uniqlo,Jacket,7765,2,Bangalore,10-01-2025,15530,High
+55,Female,Zara,Jacket,5511,2,Mumbai,11-01-2025,11022,High
+17,Other,Peter England,Saree,6570,4,Hyderabad,12-01-2025,26280,High
+16,Other,Levis,Jeans,4802,4,Mumbai,13-01-2025,19208,High
+32,Male,Puma,Cap,4812,4,Pune,14-01-2025,19248,High
+54,Female,Adidas,Saree,5854,1,Delhi,15-01-2025,5854,Medium
+48,Other,Adidas,Jeans,914,2,Hyderabad,16-01-2025,1828,Low
+56,Male,Adidas,Formal Shirt,6493,2,Hyderabad,17-01-2025,12986,High
+45,Other,Peter England,Cap,3257,1,Bangalore,18-01-2025,3257,Low
+22,Other,Puma,Jacket,2588,4,Bangalore,19-01-2025,10352,High
+24,Female,Uniqlo,Kurti,5362,5,Pune,20-01-2025,26810,High
+51,Male,Peter England,Sneakers,1625,4,Delhi,21-01-2025,6500,Medium
+35,Male,Nike,Cap,1018,1,Chennai,22-01-2025,1018,Low
+18,Male,Nike,Saree,2783,5,Chennai,23-01-2025,13915,High
+40,Other,Adidas,Kurti,2865,5,Kolkata,24-01-2025,14325,High
+56,Male,Roadster,Kurti,453,4,Bangalore,25-01-2025,1812,Low
+23,Male,Roadster,T-Shirt,1584,2,Mumbai,26-01-2025,3168,Low
+22,Female,Zara,Jeans,855,5,Mumbai,27-01-2025,4275,Low
+41,Other,Puma,Jacket,4329,4,Hyderabad,28-01-2025,17316,High
+60,Female,Uniqlo,Sneakers,6788,3,Pune,29-01-2025,20364,High
+45,Other,H&M,Formal Shirt,5688,3,Hyderabad,30-01-2025,17064,High
+30,Female,Nike,Tracksuit,508,5,Pune,31-01-2025,2540,Low
+21,Male,Levis,Hoodie,3927,1,Mumbai,01-02-2025,3927,Low
+39,Male,Nike,Saree,3676,1,Pune,02-02-2025,3676,Low
+14,Male,H&M,T-Shirt,2051,5,Chennai,03-02-2025,10255,High
+56,Male,Levis,T-Shirt,4308,3,Hyderabad,04-02-2025,12924,High
+53,Female,Roadster,Cap,2058,2,Delhi,05-02-2025,4116,Low
+56,Other,Roadster,Jeans,7616,4,Bangalore,06-02-2025,30464,High
+20,Other,Puma,Hoodie,507,2,Pune,07-02-2025,1014,Low
+23,Female,H&M,Jacket,4973,4,Hyderabad,08-02-2025,19892,High
+40,Female,Uniqlo,Jeans,1029,1,Pune,09-02-2025,1029,Low
+56,Male,Zara,Tracksuit,2082,1,Pune,10-02-2025,2082,Low
+55,Male,Puma,Kurti,5263,1,Delhi,11-02-2025,5263,Medium
+40,Male,Zara,Kurti,1413,1,Mumbai,12-02-2025,1413,Low
+21,Male,Peter England,Sneakers,1663,2,Mumbai,13-02-2025,3326,Low
+27,Male,H&M,Formal Shirt,7025,3,Chennai,14-02-2025,21075,High
+29,Male,H&M,Hoodie,834,4,Mumbai,15-02-2025,3336,Low
+53,Male,Puma,Tracksuit,7267,2,Bangalore,16-02-2025,14534,High
+43,Female,Adidas,Jeans,7135,1,Hyderabad,17-02-2025,7135,Medium
+60,Female,Roadster,Hoodie,2140,4,Delhi,18-02-2025,8560,Medium
+15,Female,Roadster,Hoodie,3119,2,Pune,19-02-2025,6238,Medium
+19,Male,Nike,Saree,2552,3,Delhi,20-02-2025,7656,Medium
+52,Male,H&M,Hoodie,7140,1,Pune,21-02-2025,7140,Medium
+13,Male,Puma,Formal Shirt,5676,3,Hyderabad,22-02-2025,17028,High
+13,Female,Roadster,Jacket,6780,5,Delhi,23-02-2025,33900,High
+55,Female,Zara,Tracksuit,4603,3,Chennai,24-02-2025,13809,High
+26,Female,Zara,Formal Shirt,2462,3,Chennai,25-02-2025,7386,Medium
+51,Male,Adidas,Tracksuit,6351,4,Hyderabad,26-02-2025,25404,High
+33,Male,Zara,Hoodie,2859,1,Delhi,27-02-2025,2859,Low
+38,Other,Zara,Saree,638,3,Delhi,28-02-2025,1914,Low
+31,Other,Roadster,Jacket,5228,5,Kolkata,01-03-2025,26140,High
+38,Female,Nike,Cap,4350,3,Chennai,02-03-2025,13050,High
+50,Female,Nike,T-Shirt,833,3,Hyderabad,03-03-2025,2499,Low
+29,Other,Zara,Tracksuit,2653,4,Kolkata,04-03-2025,10612,High
+50,Female,Zara,Hoodie,1440,1,Kolkata,05-03-2025,1440,Low
+46,Female,Adidas,Jeans,5027,4,Delhi,06-03-2025,20108,High
+15,Other,Levis,Tracksuit,3539,5,Mumbai,07-03-2025,17695,High
+54,Female,Nike,Jeans,5051,2,Delhi,08-03-2025,10102,High
+32,Other,Allen Solly,Hoodie,6233,2,Bangalore,09-03-2025,12466,High
+44,Female,Puma,Formal Shirt,5027,1,Chennai,10-03-2025,5027,Medium
+32,Other,Peter England,T-Shirt,7224,3,Chennai,11-03-2025,21672,High
+15,Female,Adidas,Cap,560,5,Pune,12-03-2025,2800,Low
+20,Female,Puma,Hoodie,5076,5,Mumbai,13-03-2025,25380,High
+54,Female,Allen Solly,T-Shirt,3078,3,Bangalore,14-03-2025,9234,Medium
+38,Other,Uniqlo,Jeans,1901,2,Kolkata,15-03-2025,3802,Low
+15,Female,Puma,Jeans,4621,5,Delhi,16-03-2025,23105,High
+19,Female,Nike,Sneakers,794,1,Chennai,17-03-2025,794,Low
+13,Other,H&M,Sneakers,6380,3,Bangalore,18-03-2025,19140,High
+42,Other,Adidas,T-Shirt,3759,1,Bangalore,19-03-2025,3759,Low
+24,Male,Zara,Sneakers,4276,1,Mumbai,20-03-2025,4276,Low
+24,Other,Uniqlo,Hoodie,2286,5,Hyderabad,21-03-2025,11430,High
+18,Male,Roadster,Tracksuit,4834,3,Chennai,22-03-2025,14502,High
+37,Other,Adidas,Jacket,761,3,Delhi,23-03-2025,2283,Low
+39,Male,Adidas,Kurti,3977,2,Bangalore,24-03-2025,7954,Medium
+29,Female,Allen Solly,Tracksuit,4394,3,Kolkata,25-03-2025,13182,High
+44,Male,Adidas,Formal Shirt,3825,4,Mumbai,26-03-2025,15300,High
+52,Male,Puma,T-Shirt,6200,3,Mumbai,27-03-2025,18600,High
+20,Female,Puma,Jacket,1187,5,Mumbai,28-03-2025,5935,Medium
+53,Other,Zara,T-Shirt,7507,5,Kolkata,29-03-2025,37535,High
+49,Female,Levis,Saree,1460,4,Chennai,30-03-2025,5840,Medium
+21,Other,Zara,Tracksuit,7732,4,Bangalore,31-03-2025,30928,High
+51,Female,H&M,T-Shirt,1166,2,Pune,01-04-2025,2332,Low
+49,Other,Uniqlo,Cap,7414,1,Hyderabad,02-04-2025,7414,Medium
+27,Male,Levis,Saree,3790,4,Mumbai,03-04-2025,15160,High
+15,Other,Levis,Formal Shirt,2116,1,Pune,04-04-2025,2116,Low
+58,Male,Adidas,Saree,2321,5,Pune,05-04-2025,11605,High
+23,Female,H&M,Sneakers,6384,2,Mumbai,06-04-2025,12768,High
+34,Female,Peter England,Tracksuit,5975,4,Pune,07-04-2025,23900,High
+18,Other,Levis,Hoodie,4504,2,Pune,08-04-2025,9008,Medium
+58,Other,Nike,Jeans,3703,4,Pune,09-04-2025,14812,High
+52,Female,Peter England,Sneakers,7786,5,Bangalore,10-04-2025,38930,High
+54,Other,Peter England,Jeans,4133,1,Bangalore,11-04-2025,4133,Low
+51,Other,Adidas,Hoodie,3511,3,Bangalore,12-04-2025,10533,High
+58,Female,Allen Solly,Formal Shirt,5714,2,Chennai,13-04-2025,11428,High
+21,Other,Nike,Kurti,4440,4,Pune,14-04-2025,17760,High
+32,Other,Allen Solly,Sneakers,406,5,Pune,15-04-2025,2030,Low
+55,Male,Adidas,Saree,1718,1,Mumbai,16-04-2025,1718,Low
+22,Male,Zara,T-Shirt,7853,1,Delhi,17-04-2025,7853,Medium
+32,Male,Allen Solly,Formal Shirt,6751,5,Bangalore,18-04-2025,33755,High
+54,Other,Roadster,Formal Shirt,2853,4,Hyderabad,19-04-2025,11412,High
+16,Male,H&M,Tracksuit,3774,5,Delhi,20-04-2025,18870,High
+52,Male,Allen Solly,Kurti,320,5,Kolkata,21-04-2025,1600,Low
+32,Other,Uniqlo,Hoodie,2825,1,Chennai,22-04-2025,2825,Low
+17,Other,Levis,Sneakers,6491,4,Kolkata,23-04-2025,25964,High
+48,Male,Nike,T-Shirt,3840,5,Chennai,24-04-2025,19200,High
+31,Female,Zara,Sneakers,4090,2,Mumbai,25-04-2025,8180,Medium
+47,Other,Zara,Kurti,3568,3,Kolkata,26-04-2025,10704,High
+21,Male,Puma,T-Shirt,4595,4,Mumbai,27-04-2025,18380,High
+31,Male,Nike,Tracksuit,5199,2,Bangalore,28-04-2025,10398,High
+22,Male,Allen Solly,Jeans,558,4,Mumbai,29-04-2025,2232,Low
+20,Other,Peter England,Jacket,7819,1,Mumbai,30-04-2025,7819,Medium
+44,Male,Allen Solly,T-Shirt,5808,3,Pune,01-05-2025,17424,High
+13,Other,Roadster,T-Shirt,4114,1,Kolkata,02-05-2025,4114,Low
+51,Female,H&M,Jacket,4914,5,Kolkata,03-05-2025,24570,High
+38,Male,Roadster,Sneakers,4254,4,Delhi,04-05-2025,17016,High
+21,Female,Uniqlo,Kurti,2685,1,Chennai,05-05-2025,2685,Low
+19,Male,Uniqlo,Saree,4930,3,Chennai,06-05-2025,14790,High
+60,Male,Nike,Tracksuit,2367,5,Mumbai,07-05-2025,11835,High
+35,Other,Adidas,Kurti,2860,1,Chennai,08-05-2025,2860,Low
+13,Female,H&M,Formal Shirt,2176,1,Bangalore,09-05-2025,2176,Low
+28,Female,Uniqlo,Kurti,3946,4,Chennai,10-05-2025,15784,High
+30,Female,Levis,Jeans,3436,2,Delhi,11-05-2025,6872,Medium
+13,Other,Puma,Hoodie,6158,5,Bangalore,12-05-2025,30790,High
+16,Female,Uniqlo,Kurti,1510,3,Hyderabad,13-05-2025,4530,Low
+60,Female,Uniqlo,Tracksuit,7166,5,Mumbai,14-05-2025,35830,High
+46,Female,Puma,Saree,3873,2,Chennai,15-05-2025,7746,Medium
+21,Male,Allen Solly,Tracksuit,2048,1,Mumbai,16-05-2025,2048,Low
+46,Female,Uniqlo,Jacket,4983,4,Delhi,17-05-2025,19932,High
+21,Male,Zara,Hoodie,743,5,Bangalore,18-05-2025,3715,Low
+37,Female,Nike,Kurti,2519,4,Mumbai,19-05-2025,10076,High
+14,Female,Peter England,Jacket,7655,3,Hyderabad,20-05-2025,22965,High
+27,Male,Peter England,T-Shirt,1172,3,Delhi,21-05-2025,3516,Low
+33,Male,Uniqlo,Cap,3484,5,Chennai,22-05-2025,17420,High
+50,Female,Peter England,Formal Shirt,6721,1,Kolkata,23-05-2025,6721,Medium
+16,Female,Roadster,Sneakers,3989,3,Mumbai,24-05-2025,11967,High
+43,Other,Nike,Tracksuit,311,2,Delhi,25-05-2025,622,Low
+39,Male,H&M,Jeans,678,5,Chennai,26-05-2025,3390,Low
+56,Female,Uniqlo,Tracksuit,7237,3,Chennai,27-05-2025,21711,High
+46,Male,Uniqlo,Tracksuit,2891,2,Delhi,28-05-2025,5782,Medium
+46,Female,Peter England,Hoodie,1970,5,Delhi,29-05-2025,9850,Medium
+37,Male,Nike,Jacket,1121,2,Bangalore,30-05-2025,2242,Low
+31,Male,H&M,T-Shirt,7193,5,Mumbai,31-05-2025,35965,High
+31,Other,Peter England,Saree,7230,1,Kolkata,01-06-2025,7230,Medium
+45,Other,Adidas,Tracksuit,3418,1,Chennai,02-06-2025,3418,Low
+28,Female,Zara,Sneakers,2178,2,Delhi,03-06-2025,4356,Low
+40,Other,Levis,T-Shirt,3614,1,Hyderabad,04-06-2025,3614,Low
+54,Other,Puma,Jeans,3907,4,Kolkata,05-06-2025,15628,High
+24,Male,Peter England,Jacket,7548,1,Bangalore,06-06-2025,7548,Medium
+44,Male,Nike,Saree,3028,4,Bangalore,07-06-2025,12112,High
+19,Male,Adidas,Saree,1062,1,Mumbai,08-06-2025,1062,Low
+19,Male,Nike,Jacket,7185,3,Kolkata,09-06-2025,21555,High
+47,Female,Puma,Kurti,4975,3,Hyderabad,10-06-2025,14925,High
+59,Male,Puma,Tracksuit,7769,5,Kolkata,11-06-2025,38845,High
+14,Other,Nike,Jeans,5611,2,Delhi,12-06-2025,11222,High
+43,Male,Puma,Hoodie,2623,5,Hyderabad,13-06-2025,13115,High
+49,Female,Puma,Jacket,4024,2,Hyderabad,14-06-2025,8048,Medium
+51,Female,Puma,Jeans,3936,3,Delhi,15-06-2025,11808,High
+28,Female,Peter England,Sneakers,1252,2,Chennai,16-06-2025,2504,Low
+55,Other,Peter England,Saree,6658,1,Chennai,17-06-2025,6658,Medium
+37,Female,Adidas,Jeans,3207,3,Kolkata,18-06-2025,9621,Medium
+35,Other,Puma,Formal Shirt,3692,5,Kolkata,19-06-2025,18460,High
+23,Male,Allen Solly,Kurti,2227,5,Pune,20-06-2025,11135,High
+17,Male,Allen Solly,Jacket,7359,5,Chennai,21-06-2025,36795,High
+22,Male,Peter England,Saree,7254,1,Hyderabad,22-06-2025,7254,Medium
+26,Male,Peter England,Cap,5573,5,Pune,23-06-2025,27865,High
+51,Female,H&M,Jacket,1697,5,Hyderabad,24-06-2025,8485,Medium
+23,Other,Levis,Jacket,797,1,Chennai,25-06-2025,797,Low
+22,Female,Puma,Formal Shirt,3318,3,Mumbai,26-06-2025,9954,Medium
+22,Male,Puma,Cap,7302,1,Bangalore,27-06-2025,7302,Medium
+22,Other,Puma,Kurti,7361,3,Mumbai,28-06-2025,22083,High
+34,Female,Uniqlo,Sneakers,4302,4,Hyderabad,29-06-2025,17208,High
+16,Female,Puma,Jeans,5469,4,Mumbai,30-06-2025,21876,High
+32,Female,Uniqlo,Kurti,7890,1,Pune,01-07-2025,7890,Medium
+39,Other,H&M,Tracksuit,5360,2,Pune,02-07-2025,10720,High
+26,Male,H&M,Hoodie,2275,3,Delhi,03-07-2025,6825,Medium
+44,Male,Levis,Kurti,3215,4,Delhi,04-07-2025,12860,High
+15,Male,Zara,Cap,3376,2,Hyderabad,05-07-2025,6752,Medium
+54,Other,Roadster,Cap,6041,5,Kolkata,06-07-2025,30205,High
+41,Female,Uniqlo,T-Shirt,6977,5,Kolkata,07-07-2025,34885,High
+29,Male,Roadster,Formal Shirt,2521,5,Kolkata,08-07-2025,12605,High
+33,Other,Peter England,Formal Shirt,4874,5,Chennai,09-07-2025,24370,High
+48,Female,Allen Solly,Tracksuit,4965,3,Delhi,10-07-2025,14895,High
+20,Male,Puma,Tracksuit,2113,5,Kolkata,11-07-2025,10565,High
+17,Other,Puma,Cap,1810,2,Bangalore,12-07-2025,3620,Low
+14,Female,Uniqlo,Jeans,841,5,Hyderabad,13-07-2025,4205,Low
+58,Other,Adidas,Formal Shirt,2171,2,Mumbai,14-07-2025,4342,Low
+53,Other,Puma,Tracksuit,477,5,Kolkata,15-07-2025,2385,Low
+46,Other,Adidas,Kurti,2361,1,Pune,16-07-2025,2361,Low
+48,Female,Allen Solly,Jacket,1691,5,Delhi,17-07-2025,8455,Medium
+20,Other,Puma,Jacket,5913,5,Mumbai,18-07-2025,29565,High
+29,Female,Roadster,Hoodie,3543,2,Pune,19-07-2025,7086,Medium
+18,Other,Uniqlo,Cap,6495,4,Pune,20-07-2025,25980,High
+22,Other,Roadster,T-Shirt,4054,3,Bangalore,21-07-2025,12162,High
+55,Other,Peter England,Sneakers,336,4,Hyderabad,22-07-2025,1344,Low
+43,Male,H&M,Cap,647,1,Bangalore,23-07-2025,647,Low
+29,Female,Peter England,Saree,6866,2,Mumbai,24-07-2025,13732,High
+22,Other,H&M,T-Shirt,697,2,Mumbai,25-07-2025,1394,Low
+26,Other,Peter England,Tracksuit,4191,1,Chennai,26-07-2025,4191,Low
+26,Male,Zara,Cap,4035,3,Hyderabad,27-07-2025,12105,High
+14,Other,Nike,Hoodie,4220,2,Mumbai,28-07-2025,8440,Medium
+31,Other,Allen Solly,Hoodie,6701,4,Chennai,29-07-2025,26804,High
+28,Female,Uniqlo,Hoodie,6956,1,Mumbai,30-07-2025,6956,Medium
+20,Other,Levis,T-Shirt,4032,2,Mumbai,31-07-2025,8064,Medium
+55,Other,Peter England,Kurti,1896,5,Kolkata,01-08-2025,9480,Medium
+37,Female,H&M,Sneakers,6307,5,Delhi,02-08-2025,31535,High
+17,Female,Levis,Sneakers,2061,2,Mumbai,03-08-2025,4122,Low
+23,Female,Roadster,T-Shirt,3831,2,Mumbai,04-08-2025,7662,Medium
+51,Male,Levis,Hoodie,5921,2,Chennai,05-08-2025,11842,High
+37,Female,Allen Solly,T-Shirt,6355,2,Pune,06-08-2025,12710,High
+20,Other,H&M,T-Shirt,1474,3,Pune,07-08-2025,4422,Low
+40,Other,Uniqlo,Jeans,324,5,Mumbai,08-08-2025,1620,Low
+43,Female,H&M,Sneakers,6296,1,Kolkata,09-08-2025,6296,Medium
+40,Other,Puma,Hoodie,1800,2,Bangalore,10-08-2025,3600,Low
+39,Female,Puma,Saree,2715,1,Pune,11-08-2025,2715,Low
+16,Male,Puma,Tracksuit,380,3,Delhi,12-08-2025,1140,Low
+32,Other,Roadster,Tracksuit,2579,3,Mumbai,13-08-2025,7737,Medium
+23,Other,Allen Solly,Formal Shirt,1043,5,Delhi,14-08-2025,5215,Medium
+33,Male,Adidas,Formal Shirt,5913,5,Chennai,15-08-2025,29565,High
+59,Male,H&M,Kurti,4856,4,Bangalore,16-08-2025,19424,High
+59,Other,Uniqlo,Jacket,7028,2,Mumbai,17-08-2025,14056,High
+37,Male,Levis,Tracksuit,767,5,Hyderabad,18-08-2025,3835,Low
+15,Male,Roadster,Formal Shirt,5394,3,Bangalore,19-08-2025,16182,High
+13,Other,Allen Solly,Cap,2039,3,Delhi,20-08-2025,6117,Medium
+42,Male,H&M,Formal Shirt,1642,2,Kolkata,21-08-2025,3284,Low
+23,Male,Puma,Sneakers,6394,2,Chennai,22-08-2025,12788,High
+35,Male,H&M,Tracksuit,1118,3,Chennai,23-08-2025,3354,Low
+21,Other,Allen Solly,Tracksuit,6695,2,Hyderabad,24-08-2025,13390,High
+13,Other,Levis,Kurti,7453,2,Chennai,25-08-2025,14906,High
+16,Male,Zara,Formal Shirt,6401,1,Hyderabad,26-08-2025,6401,Medium
+52,Other,Nike,Kurti,1032,2,Kolkata,27-08-2025,2064,Low
+48,Female,Nike,Sneakers,2908,2,Pune,28-08-2025,5816,Medium
+49,Female,Nike,Kurti,1350,3,Delhi,29-08-2025,4050,Low
+20,Female,Levis,Hoodie,6389,4,Delhi,30-08-2025,25556,High
+24,Female,Adidas,Cap,7778,5,Delhi,31-08-2025,38890,High
+40,Female,Puma,Sneakers,2546,4,Mumbai,01-09-2025,10184,High
+41,Male,Nike,Jeans,4031,1,Mumbai,02-09-2025,4031,Low
+13,Male,Uniqlo,Formal Shirt,6563,4,Chennai,03-09-2025,26252,High
+55,Other,H&M,Saree,3280,5,Delhi,04-09-2025,16400,High
+18,Other,Adidas,Formal Shirt,3402,4,Pune,05-09-2025,13608,High
+51,Female,Roadster,T-Shirt,7479,4,Mumbai,06-09-2025,29916,High
+17,Other,Uniqlo,T-Shirt,437,3,Mumbai,07-09-2025,1311,Low
+52,Male,Allen Solly,T-Shirt,4405,4,Bangalore,08-09-2025,17620,High
+13,Male,Nike,Hoodie,1655,5,Delhi,09-09-2025,8275,Medium
+20,Male,Uniqlo,Cap,3892,1,Chennai,10-09-2025,3892,Low
+37,Male,Zara,Jacket,6978,4,Pune,11-09-2025,27912,High
+37,Female,Zara,Saree,4952,5,Kolkata,12-09-2025,24760,High
+42,Female,Nike,Hoodie,3711,2,Mumbai,13-09-2025,7422,Medium
+52,Male,Puma,Hoodie,7076,5,Hyderabad,14-09-2025,35380,High
+32,Male,Nike,Hoodie,5779,2,Bangalore,15-09-2025,11558,High
+55,Male,Adidas,Sneakers,1793,2,Delhi,16-09-2025,3586,Low
+32,Female,Puma,Saree,5969,2,Pune,17-09-2025,11938,High
+50,Female,H&M,Hoodie,1229,5,Bangalore,18-09-2025,6145,Medium
+45,Male,Uniqlo,Formal Shirt,1593,5,Hyderabad,19-09-2025,7965,Medium
+53,Other,Uniqlo,Formal Shirt,6387,1,Chennai,20-09-2025,6387,Medium
+42,Male,Levis,Formal Shirt,6937,5,Chennai,21-09-2025,34685,High
+42,Male,Allen Solly,T-Shirt,7425,2,Kolkata,22-09-2025,14850,High
+32,Male,Levis,Hoodie,4475,2,Hyderabad,23-09-2025,8950,Medium
+30,Other,Roadster,Sneakers,3671,5,Hyderabad,24-09-2025,18355,High
+53,Female,Allen Solly,Tracksuit,2379,4,Chennai,25-09-2025,9516,Medium
+30,Female,Adidas,Cap,6137,5,Kolkata,26-09-2025,30685,High
+52,Other,Puma,Tracksuit,3348,3,Bangalore,27-09-2025,10044,High
+53,Female,Nike,Cap,5391,2,Pune,28-09-2025,10782,High
+49,Female,Puma,Cap,5226,1,Kolkata,29-09-2025,5226,Medium
+60,Other,Roadster,Tracksuit,4326,3,Delhi,30-09-2025,12978,High
+34,Other,H&M,Sneakers,5484,5,Hyderabad,01-10-2025,27420,High
+44,Male,Zara,Kurti,6411,1,Mumbai,02-10-2025,6411,Medium
+25,Male,Peter England,Hoodie,4235,5,Hyderabad,03-10-2025,21175,High
+16,Female,Nike,Saree,835,1,Mumbai,04-10-2025,835,Low
+34,Other,Allen Solly,Saree,565,4,Chennai,05-10-2025,2260,Low
+26,Female,Puma,Hoodie,5531,3,Pune,06-10-2025,16593,High
+35,Female,Puma,Kurti,5762,2,Mumbai,07-10-2025,11524,High
+24,Male,Zara,Saree,6905,1,Bangalore,08-10-2025,6905,Medium
+15,Female,H&M,Jacket,4683,5,Hyderabad,09-10-2025,23415,High
+13,Other,H&M,Formal Shirt,4199,5,Mumbai,10-10-2025,20995,High
+28,Male,Levis,Kurti,6816,4,Kolkata,11-10-2025,27264,High
+58,Female,Levis,Kurti,2011,4,Bangalore,12-10-2025,8044,Medium
+51,Female,H&M,Formal Shirt,6450,1,Hyderabad,13-10-2025,6450,Medium
+40,Female,Nike,Cap,6724,2,Chennai,14-10-2025,13448,High
+37,Other,Roadster,Kurti,5652,5,Delhi,15-10-2025,28260,High
+37,Male,Uniqlo,Jacket,4489,3,Bangalore,16-10-2025,13467,High
+27,Male,Peter England,Kurti,7023,3,Delhi,17-10-2025,21069,High
+56,Other,Roadster,Saree,3584,3,Chennai,18-10-2025,10752,High
+13,Other,Allen Solly,Formal Shirt,367,1,Bangalore,19-10-2025,367,Low
+18,Male,Uniqlo,Cap,978,5,Kolkata,20-10-2025,4890,Low
+30,Other,Nike,T-Shirt,6203,1,Pune,21-10-2025,6203,Medium
+18,Female,Peter England,Jeans,4380,4,Kolkata,22-10-2025,17520,High
+60,Other,Puma,Kurti,7058,1,Kolkata,23-10-2025,7058,Medium
+34,Other,Puma,Jacket,340,2,Bangalore,24-10-2025,680,Low
+20,Other,Uniqlo,Saree,4841,3,Chennai,25-10-2025,14523,High
+26,Female,Puma,Kurti,6644,2,Bangalore,26-10-2025,13288,High
+49,Male,Levis,Jacket,3998,4,Chennai,27-10-2025,15992,High
+54,Female,Puma,Kurti,7182,3,Mumbai,28-10-2025,21546,High
+19,Female,Allen Solly,Kurti,4429,2,Bangalore,29-10-2025,8858,Medium
+36,Female,Allen Solly,Saree,2355,2,Mumbai,30-10-2025,4710,Low
+26,Female,Peter England,Hoodie,6111,5,Kolkata,31-10-2025,30555,High
+50,Female,Uniqlo,Saree,6764,5,Mumbai,01-11-2025,33820,High
+29,Male,Puma,Tracksuit,5246,1,Hyderabad,02-11-2025,5246,Medium
+35,Other,Nike,Jeans,2631,3,Delhi,03-11-2025,7893,Medium
+27,Male,Zara,Kurti,6902,4,Kolkata,04-11-2025,27608,High
+22,Male,Roadster,T-Shirt,4648,4,Mumbai,05-11-2025,18592,High
+55,Other,Levis,Formal Shirt,3469,1,Chennai,06-11-2025,3469,Low
+41,Male,Adidas,Hoodie,3120,5,Kolkata,07-11-2025,15600,High
+17,Female,H&M,Sneakers,3711,3,Hyderabad,08-11-2025,11133,High
+50,Male,Uniqlo,Hoodie,1357,1,Pune,09-11-2025,1357,Low
+15,Other,Nike,Hoodie,2731,1,Kolkata,10-11-2025,2731,Low
+59,Male,Peter England,Cap,7812,5,Kolkata,11-11-2025,39060,High
+46,Other,Zara,Sneakers,789,4,Bangalore,12-11-2025,3156,Low
+51,Male,H&M,Formal Shirt,5063,4,Bangalore,13-11-2025,20252,High
+19,Female,Peter England,Kurti,7246,4,Mumbai,14-11-2025,28984,High
+23,Other,Peter England,Saree,3902,1,Delhi,15-11-2025,3902,Low
+56,Other,Uniqlo,Saree,7543,5,Pune,16-11-2025,37715,High
+60,Female,H&M,Saree,5367,3,Chennai,17-11-2025,16101,High
+56,Male,Uniqlo,Sneakers,3287,4,Kolkata,18-11-2025,13148,High
+30,Other,Adidas,Formal Shirt,2864,3,Kolkata,19-11-2025,8592,Medium
+31,Female,Allen Solly,Tracksuit,5873,4,Delhi,20-11-2025,23492,High
+46,Female,Roadster,Jeans,7050,2,Hyderabad,21-11-2025,14100,High
+39,Female,Levis,Kurti,1733,5,Chennai,22-11-2025,8665,Medium
+37,Female,H&M,Cap,2110,5,Delhi,23-11-2025,10550,High
+20,Female,Zara,Jacket,5187,4,Bangalore,24-11-2025,20748,High
+56,Female,Peter England,T-Shirt,3133,4,Pune,25-11-2025,12532,High
+40,Male,Levis,Jacket,5277,3,Mumbai,26-11-2025,15831,High
+21,Female,Zara,Sneakers,2856,3,Delhi,27-11-2025,8568,Medium
+43,Female,Uniqlo,Saree,7735,5,Bangalore,28-11-2025,38675,High
+42,Male,Zara,Kurti,4061,5,Delhi,29-11-2025,20305,High
+47,Male,Adidas,Sneakers,4015,4,Delhi,30-11-2025,16060,High
+29,Female,Uniqlo,T-Shirt,3552,3,Pune,01-12-2025,10656,High
+19,Other,Nike,Hoodie,7413,4,Kolkata,02-12-2025,29652,High
+14,Other,Nike,Jacket,2473,3,Kolkata,03-12-2025,7419,Medium
+54,Male,Uniqlo,Jacket,4608,2,Kolkata,04-12-2025,9216,Medium
+55,Other,Nike,Saree,307,2,Kolkata,05-12-2025,614,Low
+40,Female,Uniqlo,Jeans,437,1,Hyderabad,06-12-2025,437,Low
+40,Other,Allen Solly,Hoodie,6583,2,Chennai,07-12-2025,13166,High
+43,Female,Roadster,Jacket,6216,3,Bangalore,08-12-2025,18648,High
+60,Other,Roadster,Sneakers,3576,2,Pune,09-12-2025,7152,Medium
+16,Female,Allen Solly,Sneakers,2141,1,Kolkata,10-12-2025,2141,Low
+51,Other,Uniqlo,Cap,3197,2,Kolkata,11-12-2025,6394,Medium
+42,Male,Peter England,Saree,7194,1,Kolkata,12-12-2025,7194,Medium
+24,Male,H&M,T-Shirt,1758,4,Delhi,13-12-2025,7032,Medium
+54,Male,Puma,Jacket,6288,3,Delhi,14-12-2025,18864,High
+51,Female,H&M,Hoodie,2365,3,Mumbai,15-12-2025,7095,Medium
+34,Other,Levis,Jacket,7494,4,Kolkata,16-12-2025,29976,High
+52,Male,Roadster,Jeans,7997,3,Mumbai,17-12-2025,23991,High
+49,Male,Roadster,Tracksuit,1794,1,Bangalore,18-12-2025,1794,Low
+57,Female,Zara,Sneakers,835,1,Pune,19-12-2025,835,Low
+43,Female,Uniqlo,Cap,5589,5,Chennai,20-12-2025,27945,High
+55,Male,Peter England,Jeans,6517,3,Kolkata,21-12-2025,19551,High
+44,Male,Peter England,Hoodie,5854,4,Chennai,22-12-2025,23416,High
+22,Other,H&M,T-Shirt,5247,4,Mumbai,23-12-2025,20988,High
+15,Other,Adidas,Kurti,1979,2,Delhi,24-12-2025,3958,Low
+29,Other,Puma,Tracksuit,2031,5,Chennai,25-12-2025,10155,High
+57,Other,Zara,Cap,2636,4,Chennai,26-12-2025,10544,High
+59,Female,Levis,Tracksuit,7011,4,Pune,27-12-2025,28044,High
+45,Female,Levis,Formal Shirt,3572,4,Pune,28-12-2025,14288,High
+31,Other,Peter England,Hoodie,6315,3,Mumbai,29-12-2025,18945,High
+13,Other,H&M,T-Shirt,6050,5,Bangalore,30-12-2025,30250,High
+44,Other,Allen Solly,Jeans,5987,5,Bangalore,31-12-2025,29935,High
+18,Male,Allen Solly,T-Shirt,6488,5,Bangalore,01-01-2026,32440,High
+17,Male,Nike,Sneakers,5039,4,Delhi,02-01-2026,20156,High
+46,Other,Levis,Tracksuit,6266,1,Bangalore,03-01-2026,6266,Medium
+48,Male,Uniqlo,Formal Shirt,6066,5,Kolkata,04-01-2026,30330,High
+13,Female,Allen Solly,Tracksuit,1391,2,Chennai,05-01-2026,2782,Low
+55,Male,Allen Solly,Jeans,7539,1,Chennai,06-01-2026,7539,Medium
+35,Male,Roadster,Kurti,5611,5,Hyderabad,07-01-2026,28055,High
+18,Other,Puma,Saree,1897,5,Hyderabad,08-01-2026,9485,Medium
+58,Female,Adidas,Kurti,4310,2,Bangalore,09-01-2026,8620,Medium
+14,Male,Peter England,Hoodie,2551,5,Mumbai,10-01-2026,12755,High
+25,Other,Roadster,Hoodie,4101,3,Bangalore,11-01-2026,12303,High
+41,Other,Peter England,T-Shirt,3918,4,Hyderabad,12-01-2026,15672,High
+38,Other,Zara,Formal Shirt,4668,1,Kolkata,13-01-2026,4668,Low
+45,Other,Zara,Saree,2726,4,Chennai,14-01-2026,10904,High
+58,Female,H&M,Kurti,5940,2,Hyderabad,15-01-2026,11880,High
+25,Male,H&M,Hoodie,415,2,Pune,16-01-2026,830,Low
+55,Female,Zara,Jacket,1406,4,Pune,17-01-2026,5624,Medium
+35,Male,Adidas,Tracksuit,4898,3,Delhi,18-01-2026,14694,High
+31,Male,Puma,Cap,5279,2,Mumbai,19-01-2026,10558,High
+26,Other,Adidas,Saree,7327,3,Hyderabad,20-01-2026,21981,High
+32,Male,Puma,Tracksuit,7050,3,Pune,21-01-2026,21150,High
+30,Other,H&M,Hoodie,6406,2,Pune,22-01-2026,12812,High
+37,Male,Adidas,Cap,2317,4,Chennai,23-01-2026,9268,Medium
+60,Female,Zara,Hoodie,1362,5,Chennai,24-01-2026,6810,Medium
+25,Male,Allen Solly,Kurti,4558,4,Bangalore,25-01-2026,18232,High
+23,Male,Levis,Hoodie,829,3,Bangalore,26-01-2026,2487,Low
+36,Other,Adidas,Kurti,6215,1,Bangalore,27-01-2026,6215,Medium
+39,Other,H&M,Kurti,6698,1,Bangalore,28-01-2026,6698,Medium
+41,Female,H&M,Saree,3750,1,Delhi,29-01-2026,3750,Low
+24,Male,Roadster,Jacket,5649,4,Pune,30-01-2026,22596,High
+50,Female,Zara,Kurti,4363,5,Kolkata,31-01-2026,21815,High
+41,Female,Roadster,Tracksuit,4501,4,Chennai,01-02-2026,18004,High
+50,Male,Nike,T-Shirt,2625,4,Hyderabad,02-02-2026,10500,High
+28,Female,Uniqlo,Cap,2495,1,Delhi,03-02-2026,2495,Low
+17,Other,Uniqlo,Jeans,5299,3,Bangalore,04-02-2026,15897,High
